@@ -23,4 +23,4 @@ Visualization.pdf ---- PDF version of Visualization.ipynb
 
 ## Note:
 
-If there is some issue in rendering ipynb or pdf file, you can find pdf file 
+If there is some issue in rendering ipynb or pdf file, you can find pdf files [here](https://drive.google.com/drive/folders/1Dufv_tz6KglAmk5nQzBCWEdZFJKRBe_W?usp=sharing)
