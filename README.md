@@ -15,6 +15,8 @@ Feature and Parameter Selection.pdf ---- PDF version of Feature and Parameter Se
 
 Model.py ---- Training models and comparing results
 
+Report.pdf ---- Final report
+
 Visualization.ipynb ---- Getting some information about features
 
 Visualization.pdf ---- PDF version of Visualization.ipynb
