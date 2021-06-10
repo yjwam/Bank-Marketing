@@ -18,3 +18,7 @@ Model.py ---- Training models and comparing results
 Visualization.ipynb ---- Getting some information about features
 
 Visualization.pdf ---- PDF version of Visualization.ipynb
+
+## Note:
+
+If there is some issue in rendering ipynb or pdf file, you can find pdf file 
