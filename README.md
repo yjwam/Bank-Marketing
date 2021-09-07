@@ -1,4 +1,4 @@
-# DMML-Assignment-1
+# Bank Marketing
 
 ## TASK
 The "Bank Marketing Data Set" from the UCI Machine Learning Repository is related with direct marketing campaigns (phone calls) of a Portuguese banking institution.  The classification goal is to predict if the client will subscribe a term deposit (variable y). You can find a description of the attributes at the original UCI URL, https://archive.ics.uci.edu/ml/datasets/Bank+Marketing.  The UCI page contains multiple versions of the data, so the version that you need to work with is here:  Bank Marketing Data In this assignment you have to build three classifiers for this data set: a decision tree, a naïve Bayes classifier, and a random forest. Use a suitable evaluation metric to compare the performance of the three classifiers.
